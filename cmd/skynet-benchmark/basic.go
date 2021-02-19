@@ -1,11 +1,4 @@
-package main
 
-import (
-	"bytes"
-	"fmt"
-	"io/ioutil"
-	"strconv"
-	"time"
 
 	"github.com/turtledex/TurtleDexCore/modules"
 
